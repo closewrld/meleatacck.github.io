@@ -1,0 +1,22 @@
+.container-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container{
+    font-size: 28px;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: unbounded;
+}
+
+.container video{
+    padding-top: 20px;
+    border-radius: 0.75rem;
+}
